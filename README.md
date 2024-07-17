@@ -1,1 +1,1 @@
-##### In love with it's internals
+##### fascinated by its internals
